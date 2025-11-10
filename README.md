@@ -3,18 +3,16 @@
 ## Table of Contents
 - [Project overview](#project-overview)
 - [Data sources](#data-sources)
-- [Tools](#tools)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploratory data analysis](#exploratory-data-analysis )
-- [Data Analysis](#data-analysis)
-- [Result or findings](#result-or-findings)
-- [Recommendations](#recommendations)
-- [Proposed Action Plan](#proposed-action-plan)
-- [Expected Outcomes](#expected-outcomes)
+- [Dashboard Overview](#dashboard-overview)
+- [Key Insights](#key-insights)
+- [Filters and Interactivity](#filters-and-interactivity)
+- [Tools and Technologies](#tools-and-technologies)
+- [Potential Extensions](#potential-extensions)
 - [Conclusion](#conclusion)
   
 
-###📊 Project overview
+### Project overview
+
 📅 Data Period: 3 July 2023 – 3 July 2025
 
 This project presents an interactive Power BI dashboard for analyzing e-commerce product performance, revenue trends, and operational insights.
@@ -24,11 +22,11 @@ It provides a clear overview of key business metrics such as sales performance, 
 <img width="1006" height="559" alt="Screenshot 2025-11-09 193134" src="https://github.com/user-attachments/assets/98230d00-e917-40c1-a9c0-e90e8ff1f43a" />
 
 
-### 🧾 Data sources
+### Data sources
 
 e-commerce counterfeit product data: The primary dataset used for this analysis is "counterfeit_transactions.csv" file containing detailed information about sales performance, shipping origins, and warranty distribution.
 
-### 🧠 Tools and Technologies
+### Tools and Technologies
 
 | Tool                           | Purpose                                       |
 | ------------------------------ | --------------------------------------------- |
@@ -37,7 +35,7 @@ e-commerce counterfeit product data: The primary dataset used for this analysis 
 | **Power Query**                | Data transformation and calculated measures   |
 
 
-### 📊 Dashboard Overview
+### Dashboard Overview
 
 | Metric             | Description  |
 | ------------------ | ------------ |
@@ -46,7 +44,7 @@ e-commerce counterfeit product data: The primary dataset used for this analysis 
 | **Total Revenue**  | **$137.89M** |
 
 
-### 🔍 Key Insights
+### Key Insights
 
 🏆 Top 5 Performing Brands
 
@@ -85,7 +83,7 @@ e-commerce counterfeit product data: The primary dataset used for this analysis 
 - Balanced distribution across all warranty categories indicates diverse product strategies.
 
 
-###⚙️ Filters & Interactivity
+### Filters and Interactivity
 
 Users can dynamically filter the data based on:
 
@@ -102,7 +100,17 @@ Users can dynamically filter the data based on:
 These filters enhance targeted analysis for fraud detection, operational issues, or customer behavior studies.
 
 
-###📈 Potential Extensions
+### Tools and Technologies
+
+| Tool                           | Purpose                                       |
+| ------------------------------ | --------------------------------------------- |
+| **Power BI**                   | Data visualization and dashboard design       |
+| **SQL**                        | Data cleaning                                 |
+| **Power Query**                | Data transformation and calculated measures   |
+
+
+
+### Potential Extensions
 
 - Integration with Machine Learning models for demand forecasting.
 
@@ -111,7 +119,7 @@ These filters enhance targeted analysis for fraud detection, operational issues,
 - Incorporating customer segmentation analysis for personalized marketing.
 
 
-###🧩 Conclusion
+### Conclusion
 Overall, the analysis underscores the importance of data-driven decision-making in optimizing product performance, enhancing supply chain efficiency, and improving customer experience. By leveraging such dashboards, e-commerce businesses can monitor trends in real time, identify opportunities for growth, and make informed strategic decisions that strengthen competitiveness in a rapidly evolving market.
 
 
