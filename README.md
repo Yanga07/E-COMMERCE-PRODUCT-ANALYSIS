@@ -24,7 +24,7 @@ It provides a clear overview of key business metrics such as sales performance, 
 
 ### Data sources
 
-e-commerce counterfeit product data: The primary dataset used for this analysis is "counterfeit_transactions.csv" file containing detailed information about sales performance, shipping origins, and warranty distribution.
+e-commerce counterfeit product data: The primary dataset used for this analysis is "counterfeit_products.csv" file containing detailed information about sales performance, shipping origins, and warranty distribution.
 
 ### Tools and Technologies
 
