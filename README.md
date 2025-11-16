@@ -1,4 +1,4 @@
-# 🛍️ E-COMMERCE-COUNTERFEIT-PRODUCT-ANALYSIS
+ # 🛍️ E-COMMERCE-COUNTERFEIT-PRODUCT-ANALYSIS
 
 ## Table of Contents
 - [Project overview](#project-overview)
@@ -98,16 +98,6 @@ Users can dynamically filter the data based on:
 - Full contact availability
 
 These filters enhance targeted analysis for fraud detection, operational issues, or customer behavior studies.
-
-
-### Tools and Technologies
-
-| Tool                           | Purpose                                       |
-| ------------------------------ | --------------------------------------------- |
-| **Power BI**                   | Data visualization and dashboard design       |
-| **SQL**                        | Data cleaning                                 |
-| **Power Query**                | Data transformation and calculated measures   |
-
 
 
 ### Potential Extensions
